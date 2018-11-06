@@ -1,2 +1,4 @@
 
-This is a test.
+Install with:
+
+python setup.py install
